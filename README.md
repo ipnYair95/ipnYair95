@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Yair Marín
 
-<!--
-**ipnYair95/ipnYair95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Frontend Engineer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a software developer passionate about building scalable, maintainable, and user-focused applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in frontend development, working across web and mobile platforms, while also having experience with backend technologies, integrations, and software architecture.
+
+I enjoy solving complex problems, improving development workflows, and exploring new technologies to build better software.
+
+---
+
+### 🚀 Technologies & Tools
+
+**Frontend**
+- Angular
+- React
+- React Native
+- TypeScript
+- JavaScript
+- HTML5 / CSS3
+
+**Backend** 
+- Node.js
+- Apache Kafka
+- REST APIs
+
+**Testing & Quality**
+- Vitest
+- React Testing Library
+- Jest
+- SonarQube
+- Clean Code & SOLID Principles
+
+**Tools & Infrastructure**
+- Git / GitHub
+- Docker
+- Azure DevOps
+- CI/CD Pipelines
+- SQL Server
+- MongoDB
+
+---
+
+### 💡 What I'm interested in
+
+- Software architecture and scalable applications.
+- Frontend performance and user experience.
+- Clean code, maintainability, and software quality.
+- Developer productivity and automation.
+- AI-powered development tools and local LLMs.
+- Continuous learning and exploring emerging technologies.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, sharing knowledge, and connecting with other developers.
+
