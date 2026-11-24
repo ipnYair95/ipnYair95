@@ -36,8 +36,7 @@ I enjoy solving complex problems, improving development workflows, and exploring
 - Git / GitHub
 - Docker
 - Azure DevOps
-- CI/CD Pipelines
-- SQL Server
+- CI/CD Pipelines 
 - MongoDB
 
 ---
@@ -50,16 +49,7 @@ I enjoy solving complex problems, improving development workflows, and exploring
 - Developer productivity and automation.
 - AI-powered development tools and local LLMs.
 - Continuous learning and exploring emerging technologies.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
-
----
+ 
 
 ### 🤝 Let's Connect
 
